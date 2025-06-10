@@ -28,9 +28,10 @@
 
 * 🧭 [Reconnaissance (Footprinting)](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance/1.%20Reconnaissance%20%28Footprinting%29.md#reconnaissance-footprinting)
 * 🌍 [Website Reconnaissance](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance/2.%20Website%20Reconnaissance.md#-website-reconnaissance)
-* [Katana – Modern Web Crawler by ProjectDiscovery](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance/3.%20Katana%20Modern%20Web%20Crawler.md#%EF%B8%8F-katana--modern-web-crawler-by-projectdiscovery)
-* [Waybackurls – Archived URL Extractor](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance/4.%20Waybackurls%20Archived%20URL%20Extractor.md#%EF%B8%8F-waybackurls--archived-url-extractor)
-* [Websites Built With](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance/5.%20Websites%20Built%20With.md#websites-built-with)
-* [WHOIS Lookup](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance/6.%20%20WHOIS%20Lookup.md#-whois-lookup)
+* 🕷️ [Katana – Modern Web Crawler by ProjectDiscovery](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance/3.%20Katana%20Modern%20Web%20Crawler.md#%EF%B8%8F-katana--modern-web-crawler-by-projectdiscovery)
+* 🗂️ [Waybackurls – Archived URL Extractor](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance/4.%20Waybackurls%20Archived%20URL%20Extractor.md#%EF%B8%8F-waybackurls--archived-url-extractor)
+* 🛠️ [Websites Built With](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance/5.%20Websites%20Built%20With.md#websites-built-with)
+* 🔍 [WHOIS Lookup](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance/6.%20%20WHOIS%20Lookup.md#-whois-lookup)
+
 ---
 
