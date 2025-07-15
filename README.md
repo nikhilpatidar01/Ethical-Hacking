@@ -27,12 +27,6 @@
 
 ## 🛰️ Reconnaissance (Footprinting)
 
-Absolutely, Nikhil 🔥 Here's your fully cleaned, polished, and **emoji-enhanced** Reconnaissance (Footprinting) index with **consistent formatting**, **vibe check approved**, and **aesthetic ON point** 🚀:
-
----
-
-## 🛰️ Reconnaissance (Footprinting)
-
 * 🧭 [Footprinting Overview](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance%20%28Footprinting%29/01.%20Reconnaissance%20%28Footprinting%29.md)
 * 🌍 [Website Recon](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance%20%28Footprinting%29/02.%20Website%20Reconnaissance.md)
 * 🕷️ [Katana – Web Crawler](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance%20%28Footprinting%29/03.%20Katana%20Modern%20Web%20Crawler.md)
