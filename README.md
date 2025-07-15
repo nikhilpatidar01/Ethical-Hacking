@@ -56,7 +56,6 @@
 * [Email Header Analysis](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance%20(Footprinting)/28.%20Email%20Header%20Analysis.md#-email-tracking)
 * [Email Spoofing](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance%20(Footprinting)/29.%20Email%20Spoofing.md#%EF%B8%8F-email-spoofing)
 * [People Search & OSINT Tools](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance%20(Footprinting)/30.%20People%20Search%20%26%20OSINT%20Tools.md#%EF%B8%8F%EF%B8%8F-people-search--osint-tools)
-* [Reconnaissance Tools (OSINT & Footprinting)](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance%20(Footprinting)/31.%20Maltego%20and%20SpiderFoot.md#%EF%B8%8F-reconnaissance-tools-osint--footprinting)
 * [Maltego and SpiderFoot Kali Linux Tools](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance%20(Footprinting)/31.%20Maltego%20and%20SpiderFoot.md#%EF%B8%8F-reconnaissance-tools-osint--footprinting)
 * [Recall All Reconnaissance Checklist](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance%20(Footprinting)/32.%20Recall%20all%20Reconnaissance%20Checklist.md#%EF%B8%8F-reconnaissance-checklist-footprinting-phase)
 * 📜 [NDA & Legal Compliance in Pentesting](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance%20%28Footprinting%29/NDA%20and%20Software%20Development%20Environments.md)
