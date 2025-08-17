@@ -19,3 +19,7 @@
 * 🌐 [Vulnerability Research Websites](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/1.%20Information%20Security/14.%20Vulnerability%20Research%20Websites.md)
 * 🔬 [Vulnerability Research](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/1.%20Information%20Security/16.%20Vulnerability%20Research.md)
 * 🇮🇳 [CERT-In (Indian Computer Emergency Response Team)](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/1.%20Information%20Security/15.%20CERT%20In.md)
+
+---
+
+📖 Reference: Notes inspired by guidance from Mr. Sachin Verma ([Armour Infosec](https://www.armourinfosec.com/)) and enriched with further improvements and updates.
