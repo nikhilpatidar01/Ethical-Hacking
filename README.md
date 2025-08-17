@@ -8,8 +8,8 @@
 > - 🧠 Added personal insights, practical examples, and formatting  
 > - 📝 Included extra references and enhancements wherever needed
 
-> 💡 The goal of this repo is to reinforce my own learning and to help the broader community — **not for commercial purposes**.
-> 😊 Special thanks to **Mr. Sachin Verma Sir**  for their high-quality training and mentorship.
+> - 💡 The goal of this repo is to reinforce my own learning and to help the broader community — **not for commercial purposes**.
+> - 😊 Special thanks to **Mr. Sachin Verma Sir**  for their high-quality training and mentorship.
 
 ---
 
