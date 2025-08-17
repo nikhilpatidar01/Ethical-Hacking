@@ -35,3 +35,4 @@
 * 📜 [NDA & Legal Compliance in Pentesting](https://github.com/nikhilpatidar01/Ethical-Hacking/blob/Master/2.%20Reconnaissance%20%28Footprinting%29/NDA%20and%20Software%20Development%20Environments.md)
 
 ---
+📖 Reference: Notes inspired by guidance from Mr. Sachin Verma ([Armour Infosec](https://www.armourinfosec.com/)) and enriched with further improvements and updates.
