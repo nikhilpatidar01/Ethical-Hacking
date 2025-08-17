@@ -1,7 +1,7 @@
 ## 📚 Reference & Attribution 
 
 > 🧾 **Disclaimer:**  
-> This repository is a collection of Ethical Hacking (CyberSecurity) notes, built with reference to the sessions conducted by **Mr. Sachin Verma Sir** at **([Armour Infosec](https://www.armourinfosec.com/))**.  
+> This repository is a collection of Ethical Hacking (CyberSecurity) notes, built with reference to the sessions conducted by **Mr. Sachin Verma Sir** at **[Armour Infosec](https://www.armourinfosec.com/)**.  
 
 > While the foundational knowledge and many core concepts are derived from the coaching content, I have also:
 > - 🛠️ Rewritten and structured the material in my own way  
