@@ -9,7 +9,7 @@
 > - 📝 Included extra references and enhancements wherever needed
 
 > - 💡 The goal of this repo is to reinforce my own learning and to help the broader community — **not for commercial purposes**.
-> - 😊 Special thanks to **Mr. Sachin Verma Sir**  for their high-quality training and mentorship.
+> - 😊 Special thanks to **[Mr. Sachin Verma Sir](https://www.linkedin.com/in/vsachin168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**  for their high-quality training and mentorship.
 
 ---
 
